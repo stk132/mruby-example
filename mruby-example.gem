@@ -1,0 +1,6 @@
+name: mruby-example
+description: Example class
+author: Takuya Shimabukuro
+website: https://github.com/stk132/mruby-example
+protocol: git
+repository: https://github.com/stk132/mruby-example.git
